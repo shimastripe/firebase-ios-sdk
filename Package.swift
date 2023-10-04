@@ -153,8 +153,8 @@ let package = Package(
       "9.2.0" ..< "10.0.0"
     ),
     .package(
-      url: "https://github.com/google/GoogleUtilities.git",
-      "7.11.0" ..< "8.0.0"
+      url: "https://github.com/shimastripe/GoogleUtilities.git",
+      revision: "d27a048b5aaf1ce4f678d45a216ad9653f75bf31"
     ),
     .package(
       url: "https://github.com/google/gtm-session-fetcher.git",
