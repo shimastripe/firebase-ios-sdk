@@ -154,7 +154,7 @@ let package = Package(
     ),
     .package(
       url: "https://github.com/shimastripe/GoogleUtilities.git",
-      revision: "d27a048b5aaf1ce4f678d45a216ad9653f75bf31"
+      revision: "c3d21ed03283c41a779df53c77531d5fc8dffb44"
     ),
     .package(
       url: "https://github.com/google/gtm-session-fetcher.git",
